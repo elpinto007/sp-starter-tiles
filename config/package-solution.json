@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sp-starter-tiles-client-side-solution",
+    "id": "b1ebfad8-9b95-4847-b79e-7b76979d7bc4",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-starter-tiles.sppkg"
+  }
+}
